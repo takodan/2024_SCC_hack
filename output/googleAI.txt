@@ -1,0 +1,41 @@
+{
+    "Candidate:": "Yu Chang",
+    "Company": "Oracle",
+    "Job Title": "OCI Software Engineer Intern - OVIP",
+    "Location": "Austin, TX (Remote)",
+    "Meets Qualifications": {
+        "Academic/Job Experience": [
+            "Experience with Python",
+            "Experience with web services",
+            "Experience with Linux",
+            "Experience with Git and Github",
+            "Experience with Agile methodologies (from customer service experience)",
+            "Experience with databases (PostgreSQL)",
+            "Experience with machine learning and AI projects (CNN, FNN)",
+            "Experience with data analysis and statistical methods"
+        ],
+        "Other skills": [
+            "Good communication skills (from customer service and sales experience)"
+        ],
+        "Programming Languages": [
+            "Python",
+            "JavaScript",
+            "Bash",
+            "HTML",
+            "CSS",
+            "Dart"
+        ]
+    },
+    "Not Meet Qualifications": {
+        "Academic/Job Experience": [
+            "Specific experience with Java or Go",
+            "Experience with Compute Platforms (such as Hadoop, Spark, Kafka, RabbitMQ, Ganglia, Nagios, Elasticsearch or others)",
+            "Formal Scrum experience"
+        ],
+        "Programming Languages": [
+            "Java",
+            "Go"
+        ]
+    },
+    "Suitable or Not": "Potentially Suitable. Yu Chang meets several key qualifications with Python experience and projects related to web services, machine learning, and data analysis.  However, they lack experience in Java/Go and some specific compute platforms listed.  The candidate's background in psychology could be a differentiator, especially given Oracle's emphasis on diverse perspectives.  Further assessment is needed to determine their proficiency level in required skills and their fit for the internship program's objectives."
+}
